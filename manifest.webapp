@@ -1,0 +1,11 @@
+{
+	"name": "Simple Addon",
+	"description": "Magnets, how do they work?!",
+	"customizations": [{
+		"filter": "costcontrol",
+		"css": ["style/simple.css"],
+		"scripts": ["js/simple.js"]
+	}],
+	"role": "addon",
+	"type": "certified"
+}
